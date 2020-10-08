@@ -1,5 +1,5 @@
 # Address-book
-This is an app that can be used to manage addresses and phone numbers using simple clicking and typing and it's easy to use with no complications
+This is an app that can be used to manage addresses and phone numbers using simple clicking and typing and it's easy to use with no complications.The user can interact with databases and can perform various tasks like updation and deletion with having to code a single line.
 
 ## Technolgies used
 * Tkinter
